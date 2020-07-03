@@ -47,12 +47,6 @@
 
 * 如果你发现了新的 bug，或者有新的 feature request，请新建一个 issue
 
-## 捐赠 
-
-如果觉得还不错，请作者喝杯咖啡吧 ☺
-
-![](https://i.loli.net/2019/05/22/5ce4a2525828e99228.png)
-![](https://i.loli.net/2019/05/22/5ce4a25275a1575517.png)
 ## 开源协议
 
 [LGPL](https://opensource.org/licenses/LGPL-3.0)
