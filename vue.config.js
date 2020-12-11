@@ -20,8 +20,8 @@ module.exports = {
     let plugins = [
       new UglifyJsPlugin({
         uglifyOptions: {
+          warnings: false,
           compress: {
-            warnings: false,
             drop_debugger: false,
             drop_console: true,
           },
